@@ -1,3 +1,12 @@
 *{
     background-color: aqua;
 }
+.badge {
+  display: inline-block;
+  background: #e6f9ec;
+  color: #1a7f37;
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-top: 8px;
+}
